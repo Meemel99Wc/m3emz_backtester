@@ -1,0 +1,23 @@
+{
+  "strategy": "Stoch_Rsi_Reversal \u2014 SOLUSDT",
+  "symbol": "BTCUSDT",
+  "timestamp": "2026-02-22T20:33:27.147744",
+  "stats": {
+    "Total Return %": 0.0,
+    "B&H Return %": -5.04,
+    "Sharpe Ratio": 0,
+    "Profit Factor": Infinity,
+    "Win Rate %": 0,
+    "Max Drawdown %": 0.0,
+    "Total Trades": 0,
+    "Avg Win $": 0,
+    "Avg Loss $": 0,
+    "Largest Win $": 0,
+    "Largest Loss $": 0,
+    "SL Exits": 0,
+    "TP Exits": 0,
+    "Avg Duration h": 0,
+    "Final Equity $": 10000.0,
+    "Commission Paid $": 0
+  }
+}
